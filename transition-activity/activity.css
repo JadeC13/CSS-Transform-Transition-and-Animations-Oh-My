@@ -1,1 +1,7 @@
-
+button {
+    background-color: ghostwhite;
+    transition: 1s;
+}
+button:hover {
+    background-color: hotpink;
+}
