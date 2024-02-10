@@ -1,3 +1,6 @@
 main {
-
+    transform: skewX(10deg);
+    transform: skewY(-10deg);
+    margin-right: 1000px;
+    margin-top: 50px;
 }
